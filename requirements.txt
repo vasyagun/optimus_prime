@@ -1,0 +1,7 @@
+requests
+aiogram==3.18.0
+ujson
+aiohttp
+aiocron
+aiogram-dialog
+python-socketio[asyncio_client]
