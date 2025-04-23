@@ -5,3 +5,4 @@ aiohttp
 aiocron
 aiogram-dialog
 python-socketio[asyncio_client]
+websockets
